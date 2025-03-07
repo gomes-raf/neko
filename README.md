@@ -1,2 +1,2 @@
-# neko
+# Neko
 Jogo autoral
